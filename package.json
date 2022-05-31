@@ -1,6 +1,6 @@
 {
   "name": "@trlogic/test-unpkg-test",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "description",
   "main": "dist/index.umd.min.js",
   "types": "dist/index.d.ts",
