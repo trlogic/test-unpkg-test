@@ -1,5 +1,5 @@
 {
-  "name": "test-unpkg-test",
+  "name": "@trlogic/test-unpkg-test",
   "version": "1.0.0",
   "description": "description",
   "main": "dist/index.umd.min.js",
